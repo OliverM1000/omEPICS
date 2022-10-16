@@ -1,0 +1,6 @@
+﻿  om_epics_private.c
+  om_epics_public.c
+  om_epics_support.c
+  Generating Code...
+     Creating library C:\SSRL_LOCAL_OM\dll\om_epics.lib and object C:\SSRL_LOCAL_OM\dll\om_epics.exp
+  om_epics.vcxproj -> C:\SSRL_LOCAL_OM\dll\om_epics.dll
